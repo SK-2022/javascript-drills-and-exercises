@@ -1,0 +1,1 @@
+This will be where I store my notes for programming. These notes comprise of the notes I have created through Jaba's lessons and my own studying.
